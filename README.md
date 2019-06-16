@@ -1,5 +1,7 @@
 # RCLSTM
 
+The codes are shared under the condition that reproducing full or part of codes must cite the paper "Deep Learning with Long Short-Term Memory for Time Series Prediction"
+
 @article{hua2019deeplearning,<br>
 author={Y. {Hua} and Z. {Zhao} and R. {Li} and X. {Chen} and Z. {Liu} and H. {Zhang}},<br>
 journal={IEEE Communications Magazine},<br> 
